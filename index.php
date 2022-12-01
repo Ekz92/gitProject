@@ -7,6 +7,18 @@
     <title>Document</title>
 </head>
 <body>
-    
+   <h1>Bienvenu chez TB</h1> 
+   <h2>Société de technologies et de Business</h2>
+
+   <!-- Création du tableau -->
+
+   <div>
+        <div>Nom</div>
+        <div>Prenom</div>
+   </div>
+
+   <div>
+        <label for=""></label>
+   </div>
 </body>
 </html>
